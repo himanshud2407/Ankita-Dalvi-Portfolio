@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+    <linearGradient id="etlGradGreen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10B981"/>
+      <stop offset="100%" stop-color="#047857"/>
+    </linearGradient>
+  </defs>
+  <!-- Database Cylinder on transparent bg -->
+  <ellipse cx="24" cy="9" rx="15" ry="5.5" fill="#34D399"/>
+  <path d="M9 9v12c0 3 6.7 5.5 15 5.5s15-2.5 15-5.5V9" fill="url(#etlGradGreen)"/>
+  <ellipse cx="24" cy="21" rx="15" ry="5.5" fill="#059669"/>
+  <path d="M9 21v13c0 3 6.7 5.5 15 5.5s15-2.5 15-5.5V21" fill="url(#etlGradGreen)"/>
+  <ellipse cx="24" cy="34" rx="15" ry="5.5" fill="#047857"/>
+
+  <!-- Inflow & Outflow pipeline arrows -->
+  <circle cx="24" cy="21" r="3.5" fill="#FACC15"/>
+  <path d="M39 21h6m-3-3l3 3-3 3M9 21H3m3-3l-3 3 3 3" stroke="#FACC15" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

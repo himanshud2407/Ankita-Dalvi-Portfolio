@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+    <linearGradient id="modFact" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#6D28D9"/>
+    </linearGradient>
+    <linearGradient id="modDim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#0284C7"/>
+    </linearGradient>
+  </defs>
+  <!-- Connector Lines -->
+  <line x1="24" y1="24" x2="9" y2="9" stroke="#8B5CF6" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="24" y1="24" x2="39" y2="9" stroke="#8B5CF6" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="24" y1="24" x2="9" y2="39" stroke="#8B5CF6" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="24" y1="24" x2="39" y2="39" stroke="#8B5CF6" stroke-width="3.5" stroke-linecap="round"/>
+
+  <!-- Dimension Tables -->
+  <rect x="2" y="2" width="15" height="15" rx="3.5" fill="url(#modDim)"/>
+  <rect x="31" y="2" width="15" height="15" rx="3.5" fill="url(#modDim)"/>
+  <rect x="2" y="31" width="15" height="15" rx="3.5" fill="url(#modDim)"/>
+  <rect x="31" y="31" width="15" height="15" rx="3.5" fill="url(#modDim)"/>
+
+  <!-- Center Fact Table -->
+  <rect x="14" y="14" width="20" height="20" rx="4.5" fill="url(#modFact)"/>
+  <circle cx="24" cy="24" r="4" fill="#FACC15"/>
+</svg>

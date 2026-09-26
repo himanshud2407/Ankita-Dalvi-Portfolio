@@ -1,0 +1,428 @@
+- generic [active] [ref=f1e1]:
+  - generic [ref=f1e2]:
+    - generic [ref=f1e3]: "Welcome Offer: 10% off for new shoppers (First Order)"
+    - banner [ref=f1e4]:
+      - generic [ref=f1e6]:
+        - link "The Letter Ink Home" [ref=f1e8] [cursor=pointer]:
+          - /url: /
+          - img "The Letter Ink Logo" [ref=f1e9]
+        - generic [ref=f1e10]:
+          - button "Search" [ref=f1e11]
+          - link "Wishlist" [ref=f1e15] [cursor=pointer]:
+            - /url: /#gallery
+          - button "Shopping cart" [ref=f1e18]
+          - link "Account" [ref=f1e22] [cursor=pointer]:
+            - /url: /account
+    - paragraph [ref=f1e27]: USE CODE 'INKMAGIC' FOR COMPLIMENTARY ARTISANAL GIFT PACKAGING & WAX SEALING
+    - main [ref=f1e28]:
+      - generic [ref=f1e29]:
+        - generic [ref=f1e30]:
+          - img "Close up of exquisite copperplate calligraphy" [ref=f1e32]
+          - img "Custom luxury wedding invitation suite" [ref=f1e35]
+          - img "Artisanal hand-engraved crystal perfume bottle" [ref=f1e38]
+          - img "Ornate vintage golden brass glass keepsake box" [ref=f1e41]
+        - generic [ref=f1e43]:
+          - generic [ref=f1e44]:
+            - generic [ref=f1e45]: draw
+            - generic [ref=f1e46]: Artisanal Calligraphy Atelier
+          - heading "Thoughtful Script & Handcrafted Calligraphy" [level=1] [ref=f1e47]
+          - paragraph [ref=f1e49]: “The Letter Ink is a calligraphy based design studio which strives to bring back the treasure and love of hand rendered scripts. Give us your words and we frame them into reality.”
+          - generic [ref=f1e50]:
+            - link "Shop Now arrow_forward" [ref=f1e51] [cursor=pointer]:
+              - /url: "#shop-gallery"
+              - generic [ref=f1e52]: Shop Now
+              - generic [ref=f1e53]: arrow_forward
+            - link "Explore Commissions" [ref=f1e54] [cursor=pointer]:
+              - /url: "#services-atelier"
+      - generic [ref=f1e57]:
+        - generic [ref=f1e58]:
+          - generic [ref=f1e59]: history_edu
+          - heading "Hand Written Scripts" [level=3] [ref=f1e61]
+          - paragraph [ref=f1e62]: Each piece is handwritten with authentic dipped pen and pure archival fluid ink.
+        - generic [ref=f1e63]:
+          - generic [ref=f1e64]: stylus
+          - heading "Various Styles" [level=3] [ref=f1e66]
+          - paragraph [ref=f1e67]: Copperplate, modern script, flourishing, and bespoke heirloom lettering.
+        - generic [ref=f1e68]:
+          - generic [ref=f1e69]: brush
+          - heading "Bespoke Customisation" [level=3] [ref=f1e71]
+          - paragraph [ref=f1e72]: Open to bespoke commissions, tailored framing sizes, and custom prose.
+        - generic [ref=f1e73]:
+          - generic [ref=f1e74]: verified
+          - heading "Artisanal Wax Seals" [level=3] [ref=f1e76]
+          - paragraph [ref=f1e77]: Hand-poured flexible seal wax, real metallic flakes, and botanicals.
+        - generic [ref=f1e78]:
+          - generic [ref=f1e79]: schedule
+          - heading "Fast Turnaround" [level=3] [ref=f1e81]
+          - paragraph [ref=f1e82]: Carefully packaged and expedited to your doorstep worldwide.
+        - generic [ref=f1e83]:
+          - generic [ref=f1e84]: school
+          - heading "Studio Workshops" [level=3] [ref=f1e86]
+          - paragraph [ref=f1e87]: Intimate masterclasses in Maharashtra & virtual worldwide ateliers.
+      - generic [ref=f1e89]:
+        - generic [ref=f1e90]:
+          - text: Explore Our Favourites
+          - heading "Gifts For Every Occasion" [level=2] [ref=f1e93]
+        - generic [ref=f1e95]:
+          - link "Wedding Gifts & Suites favorite Wedding Gifts & Suites Celebrate love with custom vows, handmade placecards, and keepsake vows. Explore Collection →" [ref=f1e96] [cursor=pointer]:
+            - /url: "#shop-gallery"
+            - img "Wedding Gifts & Suites" [ref=f1e98]
+            - generic [ref=f1e99]:
+              - generic [ref=f1e100]:
+                - generic [ref=f1e101]: favorite
+                - heading "Wedding Gifts & Suites" [level=3] [ref=f1e103]
+                - paragraph [ref=f1e104]: Celebrate love with custom vows, handmade placecards, and keepsake vows.
+              - generic [ref=f1e105]: Explore Collection →
+          - link "Hand Made Letters & Scrolls mark_email_read Hand Made Letters & Scrolls Heartfelt words penned in dip-pen scripts, sealed with custom botanicals. Explore Letters →" [ref=f1e106] [cursor=pointer]:
+            - /url: "#shop-gallery"
+            - img "Hand Made Letters & Scrolls" [ref=f1e108]
+            - generic [ref=f1e109]:
+              - generic [ref=f1e110]:
+                - generic [ref=f1e111]: mark_email_read
+                - heading "Hand Made Letters & Scrolls" [level=3] [ref=f1e113]
+                - paragraph [ref=f1e114]: Heartfelt words penned in dip-pen scripts, sealed with custom botanicals.
+              - generic [ref=f1e115]: Explore Letters →
+          - link "Engraved Glassware & Keepsakes wine_bar Engraved Glassware & Keepsakes Fine crystal wine flutes, luxury perfume bottles, and brass Victorian glass boxes. Explore Glassware →" [ref=f1e116] [cursor=pointer]:
+            - /url: "#shop-gallery"
+            - img "Engraved Glassware & Keepsakes" [ref=f1e118]
+            - generic [ref=f1e119]:
+              - generic [ref=f1e120]:
+                - generic [ref=f1e121]: wine_bar
+                - heading "Engraved Glassware & Keepsakes" [level=3] [ref=f1e123]
+                - paragraph [ref=f1e124]: Fine crystal wine flutes, luxury perfume bottles, and brass Victorian glass boxes.
+              - generic [ref=f1e125]: Explore Glassware →
+          - link "Name Frame Royal Series crop_original Name Frame Royal Series Royal Large, Classic Small, and Royal Small personalized wooden name frames. Explore Frames →" [ref=f1e126] [cursor=pointer]:
+            - /url: "#shop-gallery"
+            - img "Name Frame Royal Series" [ref=f1e128]
+            - generic [ref=f1e129]:
+              - generic [ref=f1e130]:
+                - generic [ref=f1e131]: crop_original
+                - heading "Name Frame Royal Series" [level=3] [ref=f1e133]
+                - paragraph [ref=f1e134]: Royal Large, Classic Small, and Royal Small personalized wooden name frames.
+              - generic [ref=f1e135]: Explore Frames →
+          - link "Envelope Addressing & Seals mail Envelope Addressing & Seals Curated custom ink calligraphy, vintage postage collages, and wax seal stamps. Explore Envelopes →" [ref=f1e136] [cursor=pointer]:
+            - /url: "#shop-gallery"
+            - img "Envelope Addressing & Seals" [ref=f1e138]
+            - generic [ref=f1e139]:
+              - generic [ref=f1e140]:
+                - generic [ref=f1e141]: mail
+                - heading "Envelope Addressing & Seals" [level=3] [ref=f1e143]
+                - paragraph [ref=f1e144]: Curated custom ink calligraphy, vintage postage collages, and wax seal stamps.
+              - generic [ref=f1e145]: Explore Envelopes →
+          - link "Workshops & Studio Sessions draw Workshops & Studio Sessions Immersive hands-on masterclasses teaching pointed pen calligraphy & brush lettering. View Workshops →" [ref=f1e146] [cursor=pointer]:
+            - /url: "#workshops-section"
+            - img "Workshops & Studio Sessions" [ref=f1e148]
+            - generic [ref=f1e149]:
+              - generic [ref=f1e150]:
+                - generic [ref=f1e151]: draw
+                - heading "Workshops & Studio Sessions" [level=3] [ref=f1e153]
+                - paragraph [ref=f1e154]: Immersive hands-on masterclasses teaching pointed pen calligraphy & brush lettering.
+              - generic [ref=f1e155]: View Workshops →
+      - generic [ref=f1e157]:
+        - generic [ref=f1e158]:
+          - generic [ref=f1e159]:
+            - text: Explore Our Favourites
+            - heading "Handcrafted Pieces Loved by Our Patrons" [level=2] [ref=f1e160]
+          - paragraph [ref=f1e161]: Every piece is meticulously rendered by hand in our studio. Personalized with bespoke words, archival inks, and heirloom framing.
+        - generic [ref=f1e162]:
+          - button "All Pieces" [ref=f1e163]
+          - button "Name Frames" [ref=f1e164]
+          - button "Handwritten Letters" [ref=f1e165]
+          - button "Engraving" [ref=f1e166]
+          - button "Wedding Suites" [ref=f1e167]
+        - generic [ref=f1e168]:
+          - link "Handwritten Letters brush Customise & Order star star star star star Handwritten Letters fdsfdsfdsfewff sdsf sdfwef ewfwe ₹1,500.00 Shop Now" [ref=f1e169] [cursor=pointer]:
+            - /url: /product/handwritten-letters
+            - generic [ref=f1e170]:
+              - img "Handwritten Letters" [ref=f1e171]
+              - generic [ref=f1e173]:
+                - generic [ref=f1e174]: brush
+                - generic [ref=f1e175]: Customise & Order
+            - generic [ref=f1e176]:
+              - generic [ref=f1e177]:
+                - generic [ref=f1e178]:
+                  - generic [ref=f1e179]: star
+                  - generic [ref=f1e180]: star
+                  - generic [ref=f1e181]: star
+                  - generic [ref=f1e182]: star
+                  - generic [ref=f1e183]: star
+                - heading "Handwritten Letters" [level=3] [ref=f1e184]
+                - paragraph [ref=f1e185]: fdsfdsfdsfewff sdsf sdfwef ewfwe
+              - generic [ref=f1e186]:
+                - generic [ref=f1e187]: ₹1,500.00
+                - generic [ref=f1e188]: Shop Now
+          - link "brush Customise & Order star star star star star NA ₹1,000.00 Shop Now" [ref=f1e189] [cursor=pointer]:
+            - /url: /product/na
+            - generic [ref=f1e193]:
+              - generic [ref=f1e194]: brush
+              - generic [ref=f1e195]: Customise & Order
+            - generic [ref=f1e196]:
+              - generic [ref=f1e197]:
+                - generic [ref=f1e198]:
+                  - generic [ref=f1e199]: star
+                  - generic [ref=f1e200]: star
+                  - generic [ref=f1e201]: star
+                  - generic [ref=f1e202]: star
+                  - generic [ref=f1e203]: star
+                - heading "NA" [level=3] [ref=f1e204]
+                - paragraph
+              - generic [ref=f1e205]:
+                - generic [ref=f1e206]: ₹1,000.00
+                - generic [ref=f1e207]: Shop Now
+          - link "brush Customise & Order star star star star star Hamper 1 ₹1,500.00 Shop Now" [ref=f1e208] [cursor=pointer]:
+            - /url: /product/hamper-1
+            - generic [ref=f1e212]:
+              - generic [ref=f1e213]: brush
+              - generic [ref=f1e214]: Customise & Order
+            - generic [ref=f1e215]:
+              - generic [ref=f1e216]:
+                - generic [ref=f1e217]:
+                  - generic [ref=f1e218]: star
+                  - generic [ref=f1e219]: star
+                  - generic [ref=f1e220]: star
+                  - generic [ref=f1e221]: star
+                  - generic [ref=f1e222]: star
+                - heading "Hamper 1" [level=3] [ref=f1e223]
+                - paragraph
+              - generic [ref=f1e224]:
+                - generic [ref=f1e225]: ₹1,500.00
+                - generic [ref=f1e226]: Shop Now
+          - link "brush Customise & Order star star star star star Gift ₹2,122.00 Shop Now" [ref=f1e227] [cursor=pointer]:
+            - /url: /product/gift
+            - generic [ref=f1e231]:
+              - generic [ref=f1e232]: brush
+              - generic [ref=f1e233]: Customise & Order
+            - generic [ref=f1e234]:
+              - generic [ref=f1e235]:
+                - generic [ref=f1e236]:
+                  - generic [ref=f1e237]: star
+                  - generic [ref=f1e238]: star
+                  - generic [ref=f1e239]: star
+                  - generic [ref=f1e240]: star
+                  - generic [ref=f1e241]: star
+                - heading "Gift" [level=3] [ref=f1e242]
+                - paragraph
+              - generic [ref=f1e243]:
+                - generic [ref=f1e244]: ₹2,122.00
+                - generic [ref=f1e245]: Shop Now
+          - link "brush Customise & Order star star star star star GIFT 2 ₹2,333.00 Shop Now" [ref=f1e246] [cursor=pointer]:
+            - /url: /product/gift-2
+            - generic [ref=f1e250]:
+              - generic [ref=f1e251]: brush
+              - generic [ref=f1e252]: Customise & Order
+            - generic [ref=f1e253]:
+              - generic [ref=f1e254]:
+                - generic [ref=f1e255]:
+                  - generic [ref=f1e256]: star
+                  - generic [ref=f1e257]: star
+                  - generic [ref=f1e258]: star
+                  - generic [ref=f1e259]: star
+                  - generic [ref=f1e260]: star
+                - heading "GIFT 2" [level=3] [ref=f1e261]
+                - paragraph
+              - generic [ref=f1e262]:
+                - generic [ref=f1e263]: ₹2,333.00
+                - generic [ref=f1e264]: Shop Now
+        - link "View Full Atelier Catalogue east" [ref=f1e266] [cursor=pointer]:
+          - /url: /shop
+          - generic [ref=f1e267]: View Full Atelier Catalogue
+          - generic [ref=f1e268]: east
+      - generic [ref=f1e271]:
+        - generic [ref=f1e272]:
+          - generic [ref=f1e273]: Atelier Craftsmanship
+          - heading "Our Bespoke Services" [level=2] [ref=f1e274]
+          - paragraph [ref=f1e276]: From intimate anniversary vows to high-profile brand activations and private wedding suites, each stroke is executed with intention, archival materials, and unhurried patience.
+          - generic [ref=f1e277]:
+            - heading "Commission Consultation" [level=4] [ref=f1e278]
+            - paragraph [ref=f1e279]: Have an unusual surface or personal heirloom to inscribe? We take custom requests across India & internationally.
+            - link "Inquire With Studio arrow_outward" [ref=f1e280] [cursor=pointer]:
+              - /url: mailto:concierge@theletterink.com
+              - generic [ref=f1e281]: Inquire With Studio
+              - generic [ref=f1e282]: arrow_outward
+        - generic [ref=f1e283]:
+          - generic [ref=f1e284]:
+            - generic [ref=f1e285]:
+              - generic [ref=f1e286]:
+                - generic [ref=f1e287]: "01"
+                - generic [ref=f1e288]: diamond
+              - heading "Engraving" [level=3] [ref=f1e289]
+              - paragraph [ref=f1e290]: Hand-engraved perfume bottles, wine bottles, crystal tumblers, and acrylic luxury keepsakes. Done using precision micro-drill burs, finished with gold or silver wax leafing.
+            - generic [ref=f1e291]:
+              - generic [ref=f1e292]: Glass, Metal, Stone
+              - link "Book Service →" [ref=f1e293] [cursor=pointer]:
+                - /url: "#services-atelier"
+          - generic [ref=f1e294]:
+            - generic [ref=f1e295]:
+              - generic [ref=f1e296]:
+                - generic [ref=f1e297]: "02"
+                - generic [ref=f1e298]: edit_note
+              - heading "Handwritten Letters" [level=3] [ref=f1e299]
+              - paragraph [ref=f1e300]: Intimate love letters, wedding morning exchanges, and anniversary notes handwritten with pointed pen dip calligraphy on hand-torn cotton deckle-edge paper.
+            - generic [ref=f1e301]:
+              - generic [ref=f1e302]: Archival Cotton Stock
+              - link "Book Service →" [ref=f1e303] [cursor=pointer]:
+                - /url: "#services-atelier"
+          - generic [ref=f1e304]:
+            - generic [ref=f1e305]:
+              - generic [ref=f1e306]:
+                - generic [ref=f1e307]: "03"
+                - generic [ref=f1e308]: markunread_mailbox
+              - heading "Envelope Addressing" [level=3] [ref=f1e309]
+              - paragraph [ref=f1e310]: Transform invitations into an unforgettable preview. Bespoke guest addressing in copperplate or modern script with custom ink color matching and vintage stamp curation.
+            - generic [ref=f1e311]:
+              - generic [ref=f1e312]: Full Suite Coordination
+              - link "Book Service →" [ref=f1e313] [cursor=pointer]:
+                - /url: "#services-atelier"
+          - generic [ref=f1e314]:
+            - generic [ref=f1e315]:
+              - generic [ref=f1e316]:
+                - generic [ref=f1e317]: "04"
+                - generic [ref=f1e318]: loyalty
+              - heading "Placecards & Tags" [level=3] [ref=f1e319]
+              - paragraph [ref=f1e320]: Elevate your dinner tablescape with individual calligraphed placecards, polished Brazilian agate slices, marble tiles, handmade paper ribbons, and gift tags.
+            - generic [ref=f1e321]:
+              - generic [ref=f1e322]: Agate, Acrylic, Paper
+              - link "Book Service →" [ref=f1e323] [cursor=pointer]:
+                - /url: "#services-atelier"
+      - generic [ref=f1e327]:
+        - generic [ref=f1e328]:
+          - generic [ref=f1e329]: Upcoming Studio Masterclass
+          - heading "Modern Calligraphy & Pointed Pen Artistry" [level=3] [ref=f1e330]
+          - paragraph [ref=f1e331]: Step inside our world of slow lettering. Learn pointed pen fundamentals, ink flow management, flourishing techniques, and wax seal making. Complete studio starter kit provided.
+          - generic [ref=f1e332]:
+            - generic [ref=f1e333]:
+              - generic [ref=f1e334]: calendar_today
+              - generic [ref=f1e335]: Seasonal Schedule Open
+            - generic [ref=f1e336]:
+              - generic [ref=f1e337]: location_on
+              - generic [ref=f1e338]: Maharashtra Atelier & Live Zoom
+          - generic [ref=f1e339]:
+            - button "Enroll Now / Join Waitlist" [ref=f1e340]
+            - link "Download Syllabus" [ref=f1e341] [cursor=pointer]:
+              - /url: "#contact"
+        - img "Intimate calligraphy workshop setting" [ref=f1e344]
+      - generic [ref=f1e346]:
+        - generic [ref=f1e347]:
+          - text: The Patron Experience
+          - heading "Stories From Our Clients" [level=2] [ref=f1e348]
+        - generic [ref=f1e350]:
+          - generic [ref=f1e351]:
+            - generic [ref=f1e352]:
+              - generic [ref=f1e353]:
+                - generic [ref=f1e354]: star
+                - generic [ref=f1e355]: star
+                - generic [ref=f1e356]: star
+                - generic [ref=f1e357]: star
+                - generic [ref=f1e358]: star
+              - paragraph [ref=f1e359]: “Absolutely stunning craftsmanship. The engraving on our champagne glasses was pristine and made for our most treasured wedding keepsake.”
+            - generic [ref=f1e360]:
+              - generic [ref=f1e361]: PS
+              - generic [ref=f1e362]:
+                - heading "Priya S." [level=4] [ref=f1e363]
+                - text: Verified Patron • Mumbai
+          - generic [ref=f1e364]:
+            - generic [ref=f1e365]:
+              - generic [ref=f1e366]:
+                - generic [ref=f1e367]: star
+                - generic [ref=f1e368]: star
+                - generic [ref=f1e369]: star
+                - generic [ref=f1e370]: star
+                - generic [ref=f1e371]: star
+              - paragraph [ref=f1e372]: “The Name Frame Royal Large exceeded all expectations. Seeing our family name penned with such historical grandeur on cotton stock brought tears of joy.”
+            - generic [ref=f1e373]:
+              - generic [ref=f1e374]: RM
+              - generic [ref=f1e375]:
+                - heading "Rahul M." [level=4] [ref=f1e376]
+                - text: Verified Patron • Pune
+          - generic [ref=f1e377]:
+            - generic [ref=f1e378]:
+              - generic [ref=f1e379]:
+                - generic [ref=f1e380]: star
+                - generic [ref=f1e381]: star
+                - generic [ref=f1e382]: star
+                - generic [ref=f1e383]: star
+                - generic [ref=f1e384]: star
+              - paragraph [ref=f1e385]: “Such a heartwarming anniversary gift! The brass scroll frame with dried flowers and custom written vows was wrapped so gracefully, ready to impress.”
+            - generic [ref=f1e386]:
+              - generic [ref=f1e387]: AG
+              - generic [ref=f1e388]:
+                - heading "Ananya G." [level=4] [ref=f1e389]
+                - text: Verified Patron • Delhi
+          - generic [ref=f1e390]:
+            - generic [ref=f1e391]:
+              - generic [ref=f1e392]:
+                - generic [ref=f1e393]: star
+                - generic [ref=f1e394]: star
+                - generic [ref=f1e395]: star
+                - generic [ref=f1e396]: star
+                - generic [ref=f1e397]: star
+              - paragraph [ref=f1e398]: “The Letter Ink addressed 180 envelopes for our international wedding. The copperplate flourishes and wax seals set an unforgettable tone before guests arrived.”
+            - generic [ref=f1e399]:
+              - generic [ref=f1e400]: RK
+              - generic [ref=f1e401]:
+                - heading "Rohan K." [level=4] [ref=f1e402]
+                - text: Verified Patron • Bengaluru
+      - generic [ref=f1e405]:
+        - generic [ref=f1e406]:
+          - generic [ref=f1e407]: storefront
+          - generic [ref=f1e409]:
+            - text: The Studio • Maharashtra
+            - heading "The Letter Ink Studio" [level=3] [ref=f1e410]
+            - paragraph [ref=f1e411]: Ratan niwas, ground floor, plot no 33/A behind biyani chembers, bhusawal Maharashtra 425201
+        - generic [ref=f1e412]:
+          - link "chat WhatsApp Atelier" [ref=f1e413] [cursor=pointer]:
+            - /url: https://wa.me/message/SO4FNIENMNMHA1
+            - generic [ref=f1e414]: chat
+            - generic [ref=f1e415]: WhatsApp Atelier
+          - link "Email Us" [ref=f1e416] [cursor=pointer]:
+            - /url: mailto:concierge@theletterink.com
+    - contentinfo [ref=f1e417]:
+      - generic [ref=f1e418]:
+        - generic [ref=f1e419]:
+          - generic [ref=f1e420]:
+            - link "The Letter Ink Home" [ref=f1e421] [cursor=pointer]:
+              - /url: /
+              - img "The Letter Ink" [ref=f1e422]
+            - paragraph [ref=f1e423]: An artisanal calligraphy studio, bespoke wedding stationery atelier, and custom lettering workshop.
+          - generic [ref=f1e424]:
+            - heading "Collections" [level=3] [ref=f1e425]
+            - list [ref=f1e426]:
+              - listitem [ref=f1e427]:
+                - link "Hampers" [ref=f1e428] [cursor=pointer]:
+                  - /url: /collection/hampers
+          - generic [ref=f1e429]:
+            - heading "Support" [level=3] [ref=f1e430]
+            - list [ref=f1e431]:
+              - listitem [ref=f1e432]:
+                - link "About Us" [ref=f1e433] [cursor=pointer]:
+                  - /url: /about
+              - listitem [ref=f1e434]:
+                - link "Contact Us" [ref=f1e435] [cursor=pointer]:
+                  - /url: /contact
+              - listitem [ref=f1e436]:
+                - link "FAQ" [ref=f1e437] [cursor=pointer]:
+                  - /url: /faq
+              - listitem [ref=f1e438]:
+                - link "Atelier Blog" [ref=f1e439] [cursor=pointer]:
+                  - /url: /blog
+          - generic [ref=f1e440]:
+            - heading "Legal & Policies" [level=3] [ref=f1e441]
+            - list [ref=f1e442]:
+              - listitem [ref=f1e443]:
+                - button "Terms & Conditions" [ref=f1e444]
+              - listitem [ref=f1e445]:
+                - button "Privacy Policy" [ref=f1e446]
+              - listitem [ref=f1e447]:
+                - button "Shipping & Atelier Care" [ref=f1e448]
+              - listitem [ref=f1e449]:
+                - button "Refunds & Returns" [ref=f1e450]
+        - generic [ref=f1e451]:
+          - paragraph [ref=f1e452]: © 2026 The Letter Ink. All rights reserved.
+          - generic [ref=f1e453]:
+            - button "Terms of Commission" [ref=f1e454]
+            - generic [ref=f1e455]: •
+            - button "Privacy Policy" [ref=f1e456]
+            - generic [ref=f1e457]: •
+            - button "Shipping & Care" [ref=f1e458]
+  - region "Notifications alt+T"
+  - alert [ref=f1e459]

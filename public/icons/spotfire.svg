@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <!-- Analytics Metric Chart on transparent background -->
+  <path d="M4 42h40" stroke="#0072C6" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M6 34l11-14 10 8 16-19" fill="none" stroke="#0072C6" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="6" cy="34" r="5" fill="#38BDF8"/>
+  <circle cx="17" cy="20" r="5" fill="#0284C7"/>
+  <circle cx="27" cy="28" r="5" fill="#0284C7"/>
+  <circle cx="43" cy="9" r="5.5" fill="#F59E0B"/>
+</svg>

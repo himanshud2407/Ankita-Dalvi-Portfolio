@@ -1,0 +1,185 @@
+- generic [active] [ref=f3e1]:
+  - generic [ref=f3e2]:
+    - generic [ref=f3e148]: "Welcome Offer: 10% off for new shoppers (First Order)"
+    - banner [ref=f3e3]:
+      - generic [ref=f3e5]:
+        - link "The Letter Ink Home" [ref=f3e7] [cursor=pointer]:
+          - /url: /
+          - img "The Letter Ink Logo" [ref=f3e8]
+        - generic [ref=f3e9]:
+          - button "Search" [ref=f3e10]
+          - link "Wishlist" [ref=f3e14] [cursor=pointer]:
+            - /url: /#gallery
+          - button "Shopping cart" [ref=f3e17]
+          - link "Account" [ref=f3e21] [cursor=pointer]:
+            - /url: /account
+    - paragraph [ref=f3e26]: USE CODE 'INKMAGIC' FOR COMPLIMENTARY ARTISANAL GIFT PACKAGING & WAX SEALING
+    - main [ref=f3e27]:
+      - main [ref=f3e28]:
+        - navigation [ref=f3e30]:
+          - link "Home" [ref=f3e31] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f3e32]: /
+          - link "Shop" [ref=f3e33] [cursor=pointer]:
+            - /url: /shop
+          - generic [ref=f3e34]: /
+          - generic [ref=f3e35]: Handwritten Letters
+        - generic [ref=f3e37]:
+          - region "Product media gallery" [ref=f3e39]:
+            - img "Handwritten Letters - View 1" [ref=f3e149]
+            - generic [ref=f3e42]:
+              - generic [ref=f3e43]:
+                - generic [ref=f3e44]: verified
+                - paragraph [ref=f3e45]: Signed atelier authenticity wax seal certificate encapsulated on rear verso.
+              - generic [ref=f3e46]: Atelier Heirlooms
+          - generic [ref=f3e47]:
+            - generic [ref=f3e48]:
+              - generic [ref=f3e49]: The Atelier Heirlooms Series
+              - heading "Handwritten Letters" [level=1] [ref=f3e51]
+              - paragraph [ref=f3e52]: fdsfdsfdsfewff sdsf sdfwef ewfwe
+            - paragraph [ref=f3e56]: SDFSDSDfdsfsd dfsfsd
+            - generic [ref=f3e57]:
+              - generic [ref=f3e58]:
+                - generic [ref=f3e59]: ₹1,500.00
+                - paragraph [ref=f3e61]: Taxes included.
+              - generic [ref=f3e150]:
+                - generic [ref=f3e151]:
+                  - generic [ref=f3e152]: Bespoke Customization Options
+                  - generic [ref=f3e153]: 2 options available
+                - group [ref=f3e154]:
+                  - generic [ref=f3e155]:
+                    - generic [ref=f3e156]: Paper color
+                    - generic [ref=f3e157]: Yellowish
+                  - generic [ref=f3e158]:
+                    - button "Yellowish" [ref=f3e159]
+                    - button "Blue" [ref=f3e160]
+                    - button "Gray" [ref=f3e161]
+                - group [ref=f3e162]:
+                  - generic [ref=f3e163]:
+                    - generic [ref=f3e164]: Ink color
+                    - generic [ref=f3e165]: White
+                  - generic [ref=f3e166]:
+                    - button "Red" [ref=f3e167]
+                    - button "Black" [ref=f3e168]
+                    - button "White" [ref=f3e169]
+              - generic [ref=f3e62]:
+                - generic [ref=f3e64]:
+                  - generic [ref=f3e65]:
+                    - button "Decrease quantity" [disabled] [ref=f3e66]:
+                      - generic [ref=f3e67]: remove
+                    - textbox [ref=f3e68]: "1"
+                    - button "Increase quantity" [ref=f3e69]:
+                      - generic [ref=f3e70]: add
+                  - button "Add to Cart — ₹1,500.00 arrow_forward" [ref=f3e71]:
+                    - generic [ref=f3e72]: Add to Cart — ₹1,500.00
+                    - generic [ref=f3e73]: arrow_forward
+                - button "chat Inquire With Atelier Calligrapher" [ref=f3e74]:
+                  - generic [ref=f3e75]: chat
+                  - generic [ref=f3e76]: Inquire With Atelier Calligrapher
+            - generic [ref=f3e77]:
+              - generic [ref=f3e78]:
+                - generic [ref=f3e79]: brush
+                - generic [ref=f3e80]: 100% Dip-Pen Hand Scripted
+                - generic [ref=f3e81]: Zero digital prints; genuine archival hand calligraphy.
+              - generic [ref=f3e82]:
+                - generic [ref=f3e83]: mark_chat_read
+                - generic [ref=f3e84]: Pre-Dispatch Proof
+                - generic [ref=f3e85]: High-res approval via WhatsApp before glass sealing.
+              - generic [ref=f3e86]:
+                - generic [ref=f3e87]: local_shipping
+                - generic [ref=f3e88]: 5-7 Days • Insured
+                - generic [ref=f3e89]: Cushioned wooden crate courier delivery nationwide.
+        - generic [ref=f3e90]:
+          - generic [ref=f3e91]:
+            - generic [ref=f3e92]:
+              - text: Complete the Ensemble
+              - heading "Related Atelier Heirlooms" [level=2] [ref=f3e93]
+            - link "Explore All Frames north_east" [ref=f3e94] [cursor=pointer]:
+              - /url: /shop
+              - generic [ref=f3e95]: Explore All Frames
+              - generic [ref=f3e96]: north_east
+          - generic [ref=f3e170]:
+            - generic [ref=f3e172]:
+              - heading "You might also like" [level=2] [ref=f3e173]
+              - paragraph [ref=f3e174]: More products to explore
+            - generic [ref=f3e175]:
+              - link [ref=f3e176] [cursor=pointer]:
+                - /url: /product/na?Default+option=Default+option+value
+                - button "Add NA to cart" [ref=f3e178]
+                - generic [ref=f3e182]:
+                  - heading "NA" [level=3] [ref=f3e183]
+                  - paragraph [ref=f3e184]: ₹1,000.00
+              - link [ref=f3e185] [cursor=pointer]:
+                - /url: /product/hamper-1?Size=Standard
+                - button "Add Hamper 1 to cart" [ref=f3e187]
+                - generic [ref=f3e191]:
+                  - heading "Hamper 1" [level=3] [ref=f3e192]
+                  - paragraph [ref=f3e193]: ₹1,500.00
+              - link [ref=f3e194] [cursor=pointer]:
+                - /url: /product/gift?Size=Standard
+                - button "Add Gift to cart" [ref=f3e196]
+                - generic [ref=f3e200]:
+                  - heading "Gift" [level=3] [ref=f3e201]
+                  - paragraph [ref=f3e202]: ₹2,122.00
+              - link [ref=f3e203] [cursor=pointer]:
+                - /url: /product/gift-2?Size=Standard
+                - button "Add GIFT 2 to cart" [ref=f3e205]
+                - generic [ref=f3e209]:
+                  - heading "GIFT 2" [level=3] [ref=f3e210]
+                  - paragraph [ref=f3e211]: ₹2,333.00
+        - generic [ref=f3e98]:
+          - generic [ref=f3e99]:
+            - generic [ref=f3e100]: Architectural & Large Format Commissions
+            - heading "Seeking a Custom Dimension or Poetry Inscription?" [level=3] [ref=f3e101]
+            - paragraph [ref=f3e102]: Our senior scribe accepts private custom commissions for poetry, family crests, Sanskrit shlokas, and oversized architectural brass installations up to 36 inches.
+          - button "Book Atelier Consultation" [ref=f3e104]
+    - contentinfo [ref=f3e105]:
+      - generic [ref=f3e106]:
+        - generic [ref=f3e107]:
+          - generic [ref=f3e108]:
+            - link "The Letter Ink Home" [ref=f3e109] [cursor=pointer]:
+              - /url: /
+              - img "The Letter Ink" [ref=f3e110]
+            - paragraph [ref=f3e111]: An artisanal calligraphy studio, bespoke wedding stationery atelier, and custom lettering workshop.
+          - generic [ref=f3e112]:
+            - heading "Collections" [level=3] [ref=f3e113]
+            - list [ref=f3e114]:
+              - listitem [ref=f3e115]:
+                - link "Hampers" [ref=f3e116] [cursor=pointer]:
+                  - /url: /collection/hampers
+          - generic [ref=f3e117]:
+            - heading "Support" [level=3] [ref=f3e118]
+            - list [ref=f3e119]:
+              - listitem [ref=f3e120]:
+                - link "About Us" [ref=f3e121] [cursor=pointer]:
+                  - /url: /about
+              - listitem [ref=f3e122]:
+                - link "Contact Us" [ref=f3e123] [cursor=pointer]:
+                  - /url: /contact
+              - listitem [ref=f3e124]:
+                - link "FAQ" [ref=f3e125] [cursor=pointer]:
+                  - /url: /faq
+              - listitem [ref=f3e126]:
+                - link "Atelier Blog" [ref=f3e127] [cursor=pointer]:
+                  - /url: /blog
+          - generic [ref=f3e128]:
+            - heading "Legal & Policies" [level=3] [ref=f3e129]
+            - list [ref=f3e130]:
+              - listitem [ref=f3e131]:
+                - button "Terms & Conditions" [ref=f3e132]
+              - listitem [ref=f3e133]:
+                - button "Privacy Policy" [ref=f3e134]
+              - listitem [ref=f3e135]:
+                - button "Shipping & Atelier Care" [ref=f3e136]
+              - listitem [ref=f3e137]:
+                - button "Refunds & Returns" [ref=f3e138]
+        - generic [ref=f3e139]:
+          - paragraph [ref=f3e140]: © 2026 The Letter Ink. All rights reserved.
+          - generic [ref=f3e141]:
+            - button "Terms of Commission" [ref=f3e142]
+            - generic [ref=f3e143]: •
+            - button "Privacy Policy" [ref=f3e144]
+            - generic [ref=f3e145]: •
+            - button "Shipping & Care" [ref=f3e146]
+  - region "Notifications alt+T"
+  - alert [ref=f3e147]: Handwritten Letters

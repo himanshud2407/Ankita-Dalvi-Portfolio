@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+    <linearGradient id="daxGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#D97706"/>
+    </linearGradient>
+  </defs>
+  <text x="2" y="35" font-family="system-ui, -apple-system, sans-serif" font-size="32" font-weight="900" font-style="italic" fill="url(#daxGrad)" letter-spacing="-1">fx</text>
+  <path d="M44 14h-12l7 7.5-7 7.5h12v-3.5h-6.5l4-4-4-4h6.5z" fill="#D97706"/>
+</svg>

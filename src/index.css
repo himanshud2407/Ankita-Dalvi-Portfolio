@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-bg: var(--bg);
+  --color-fg: var(--fg);
+  
+  --font-sans: 'DM Sans', system-ui, sans-serif;
+  --font-display: 'DM Sans', system-ui, sans-serif;
+  
+  --color-brand-100: var(--tw-colors-emerald-100);
+  --color-brand-300: var(--tw-colors-emerald-300);
+  --color-brand-500: var(--tw-colors-emerald-500);
+  --color-brand-700: var(--tw-colors-emerald-700);
+  --color-brand-900: var(--tw-colors-emerald-900);
+}
+
+@layer base {
+  :root {
+    --bg: #f4f4f4;
+    --fg: #111111;
+    color-scheme: light;
+  }
+  
+  html.dark {
+    --bg: #111111;
+    --fg: #f4f4f4;
+    color-scheme: dark;
+  }
+  
+  body {
+    background-color: var(--bg);
+    color: var(--fg);
+    transition: background-color 0.3s ease, color 0.3s ease;
+    scroll-behavior: smooth;
+    font-family: var(--font-sans);
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-display);
+    text-transform: uppercase;
+  }
+}
+
+/* Custom utilities */
+@layer utilities {
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
