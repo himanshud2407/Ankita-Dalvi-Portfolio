@@ -46,13 +46,13 @@ const About = () => {
               className="flex flex-col gap-5 max-w-2xl text-sm md:text-base text-zinc-600 dark:text-zinc-400 font-medium leading-relaxed"
             >
               <p>
-                Data Analyst with close to two years of experience across staffing/recruiting, IT, and non-IT sectors, specializing in Power BI dashboard development (DAX, data modeling, Power Query), MIS/KPI reporting, and end-to-end data transformation.
+                Data Analyst with three years of experience across staffing/recruiting, IT, and non-IT sectors, specializing in Power BI dashboard development (DAX, data modeling, Power Query), MIS/KPI reporting, and end-to-end data transformation. Experienced in supporting process compliance audits including internal and external audits, SOC 1/SOC 2, and CMMI alongside project facilitation.
               </p>
               <p>
                 Skilled in converting operational data into actionable insights that support process improvement, compliance tracking, and strategic business decision-making. Proficient in SQL, Python, Advanced Excel, Minitab, and Spotfire, with a strong background in cross-functional collaboration and stakeholder communication.
               </p>
               <p>
-                Educated with an MBA in Business Analytics & International Business (Suryadatta Institute) and a Bachelor of Computer Applications (BCA, SGPA: 9.43/10). Certified in Microsoft Power BI, SQL for Data Analytics, and Advanced Excel.
+                Holds an MBA in Business Analytics & International Business (Suryadatta Institute) and a Bachelor of Computer Applications (BCA, SGPA: 9.43/10). Certified in Microsoft Power BI, SQL for Data Analytics, and Advanced Excel.
               </p>
             </motion.div>
             
