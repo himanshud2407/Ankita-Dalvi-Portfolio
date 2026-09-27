@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
+import { FiExternalLink } from 'react-icons/fi';
 import { skillsData, skillCategories, certificationsData, languagesData } from '../../data/skills';
 
 const Skills = () => {
@@ -100,19 +101,27 @@ const Skills = () => {
             </span>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               {certificationsData.map((cert, cIdx) => (
-                <motion.div 
+                <motion.a 
                   key={cIdx}
+                  href={cert.link}
+                  target="_blank"
+                  rel="noopener noreferrer"
                   initial={{ opacity: 0, y: 20 }}
                   whileInView={{ opacity: 1, y: 0 }}
                   transition={{ duration: 0.5, delay: cIdx * 0.1 }}
                   viewport={{ once: true }}
-                  className="p-4 rounded-md bg-fg/5 border border-zinc-200/60 dark:border-zinc-800/80 flex flex-col justify-between hover:bg-fg/10 transition-colors"
+                  className="group p-4 rounded-md bg-fg/5 border border-zinc-200/60 dark:border-zinc-800/80 flex flex-col justify-between hover:bg-fg/10 transition-colors cursor-pointer block"
                 >
-                  <p className="text-sm font-semibold text-fg mb-2 leading-snug">{cert.name}</p>
+                  <div className="flex items-start justify-between gap-2 mb-2">
+                    <p className="text-sm font-semibold text-fg leading-snug group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors">
+                      {cert.name}
+                    </p>
+                    <FiExternalLink className="w-3.5 h-3.5 text-zinc-400 group-hover:text-emerald-600 dark:group-hover:text-emerald-400 opacity-60 group-hover:opacity-100 transition-all shrink-0 mt-0.5" />
+                  </div>
                   <span className="text-[11px] font-mono text-emerald-600 dark:text-emerald-400 uppercase tracking-wider font-semibold">
                     {cert.issuer}
                   </span>
-                </motion.div>
+                </motion.a>
               ))}
             </div>
           </div>

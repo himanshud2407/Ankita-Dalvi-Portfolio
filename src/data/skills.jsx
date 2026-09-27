@@ -224,19 +224,23 @@ export const skillsData = [
 export const certificationsData = [
   {
     name: 'Introduction to Data Analytics Using Microsoft Power BI',
-    issuer: 'ALISON'
+    issuer: 'ALISON',
+    link: ''
   },
   {
     name: 'SQL Masterclass for Data Analytics',
-    issuer: 'Udemy'
+    issuer: 'Udemy',
+    link: ''
   },
   {
     name: 'Advanced Excel Course',
-    issuer: 'Udemy'
+    issuer: 'Udemy',
+    link: ''
   },
   {
     name: 'Korean TOPIK1 Level 1',
-    issuer: 'The Language Network'
+    issuer: 'The Language Network',
+    link: '/certificates/korean-topik1.pdf'
   }
 ];
 
