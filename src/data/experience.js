@@ -19,10 +19,12 @@ export const experiencesData = [
     company: 'Talentbridge, USA (Remote)',
     period: 'Nov 2022 – July 2023',
     highlights: [
-      'Developed and maintained Power BI and Spotfire dashboards for weekly and ad-hoc reporting on operational and recruitment metrics.',
-      'Structured relational data models linking operational and recruitment tables, authoring custom DAX calculations to power dashboard reporting.',
-      'Extracted data from JobDiva and Excel sources, applying Power Query ETL pipelines for downstream reporting.',
-      'Partnered with international stakeholders to gather reporting requirements and align dashboard design with business needs.'
+      'Developed and maintained Power BI dashboards for weekly and ad-hoc reporting on operational and recruitment metrics, giving stakeholders consistent visibility into performance trends.',
+      'Structured relational data models linking operational and recruitment tables, and authored custom DAX calculations to power multi-table dashboard reporting.',
+      'Extracted data from JobDiva (applicant tracking system) and Excel sources, applying Power Query ETL pipelines to clean and transform raw data for downstream reporting.',
+      'Maintained Power BI and Spotfire dashboards by refreshing datasets on a regular cadence and validating outputs to ensure reporting accuracy.',
+      'Partnered with international stakeholders to gather reporting requirements and align dashboard design with evolving business needs.',
+      'Applied advanced Excel techniques including VLOOKUP/XLOOKUP, pivot tables, and data validation to clean, structure, and analyze recruitment data ahead of dashboard integration.'
     ]
   }
 ];
